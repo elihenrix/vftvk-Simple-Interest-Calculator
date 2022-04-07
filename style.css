@@ -1,5 +1,5 @@
-
-body {background-color:black;font-family:arial;color:white}
+{
+body{background-color:black;font-family:arial;color:white}
 h1{color:grey;
 font-family: Verdana}
 
@@ -10,4 +10,5 @@ font-family: Verdana}
     padding:20px;
     border-radius:25px;
     align:center
+}
 }
