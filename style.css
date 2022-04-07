@@ -1,12 +1,13 @@
-body {background-color:black;}
+body {background-color:black;
+font-family: Arial}
 h1{color:grey;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+font-family: Verdana}
+
 .maindiv{
-    background-color: white;
-    color: black;
-    width: 300px;
-    padding: 20px;
-    border-radius: 25px;
-    margin: auto;
+    background-color:white;
+    color:black;
+    width:300px;
+    padding:20px;
+    border-radius:25px;
+    align:center
 }
